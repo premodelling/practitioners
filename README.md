@@ -6,6 +6,8 @@
 
 The conda environment is  [`health`](https://github.com/premodelling/preimage#anaconda-conda)
 
+<br>
+
 ### Snippets
 
 ```
