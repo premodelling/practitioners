@@ -4,7 +4,7 @@
 
 <br>
 
-The conda environment is  [`health`](https://github.com/miscellane/indices/tree/develop/development#anaconda-conda)
+The conda environment is  [`health`](https://github.com/premodelling/preimage#anaconda-conda)
 
 ### Snippets
 
