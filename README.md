@@ -6,6 +6,8 @@
 
 The conda environment is  [`health`](https://github.com/premodelling/preimage#anaconda-conda)
 
+<br>
+
 ### Snippets
 
 ```
@@ -18,3 +20,18 @@ tables = c.execute("SELECT name FROM sqlite_schema WHERE type = 'table'").fetcha
 c.close()
 connection.close()
 ```
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+
